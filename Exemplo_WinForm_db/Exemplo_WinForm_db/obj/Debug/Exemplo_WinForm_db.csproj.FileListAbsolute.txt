@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\bin\Debug\Exemplo_WinForm_db.exe.config
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\bin\Debug\Exemplo_WinForm_db.exe
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\bin\Debug\Exemplo_WinForm_db.pdb
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\bin\Debug\BLL.exe
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\bin\Debug\DTO.exe
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\bin\Debug\BLL.pdb
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\bin\Debug\BLL.exe.config
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\bin\Debug\DTO.pdb
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\bin\Debug\DTO.exe.config
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\obj\Debug\Exemplo_WinForm_db.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\obj\Debug\Exemplo_WinForm_db.Properties.Resources.resources
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\obj\Debug\Exemplo_WinForm_db.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\obj\Debug\Exemplo_WinForm_db.csproj.CopyComplete
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\obj\Debug\Exemplo_WinForm_db.exe
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\obj\Debug\Exemplo_WinForm_db.pdb
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\Exemplo_WinForm_db\obj\Debug\Exemplo_WinForm_db.Main.resources

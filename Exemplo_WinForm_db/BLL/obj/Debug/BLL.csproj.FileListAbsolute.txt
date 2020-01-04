@@ -1,0 +1,12 @@
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\BLL\bin\Debug\BLL.exe.config
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\BLL\bin\Debug\BLL.exe
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\BLL\bin\Debug\BLL.pdb
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\BLL\bin\Debug\DTO.exe
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\BLL\bin\Debug\DTO.pdb
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\BLL\bin\Debug\DTO.exe.config
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\BLL\obj\Debug\BLL.exe
+C:\Users\pedro\source\repos\Exemplo_WinForm_db\BLL\obj\Debug\BLL.pdb
