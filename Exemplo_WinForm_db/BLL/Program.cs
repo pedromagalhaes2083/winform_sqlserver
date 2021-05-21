@@ -14,6 +14,7 @@ namespace BLL
         [STAThread]
         static void Main()
         {
+            // Este é um comentário
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run();
